@@ -8,7 +8,7 @@
 [![Matrix development channel](https://img.shields.io/matrix/keepassxc-dev:matrix.org?label=Development%20channel)](https://app.element.io/#/room/#keepassxc-dev:mozilla.org)
 
 [KeePassXC](https://keepassxc.org) é um gerenciador de senhas moderno, seguro e de código aberto que armazena e gerencia suas informações mais confidenciais. Você pode executar o KeePassXC em sistemas Windows, macOS e Linux. O KeePassXC é destinado a pessoas com exigências extremamente altas em relação ao gerenciamento seguro de dados pessoais. Ele salva muitos tipos diferentes de informações, como nomes de usuário, senhas, URLs, anexos e notas em um arquivo offline criptografado que pode ser armazenado em qualquer local, incluindo soluções de nuvem privada e pública. Para facilitar a identificação e o gerenciamento, títulos e ícones definidos pelo usuário podem ser especificados para as entradas. Além disso, as entradas são classificadas em grupos personalizáveis. Uma função de pesquisa integrada permite que você use padrões avançados para encontrar facilmente qualquer entrada em seu banco de dados. Um utilitário gerador de senhas personalizável, rápido e fácil de usar permite que você crie senhas com qualquer combinação de caracteres ou frases de senha fáceis de lembrar.
-*** Traduzido com www.DeepL.com/Translator (versão gratuita) ***
+
 
 
 
