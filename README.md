@@ -14,7 +14,7 @@
 
 ## Quick Start
 O [Guia de Início Rápido](https://keepassxc.org/docs/KeePassXC_GettingStarted.html) ajuda você a começar a usar o KeePassXC no seu computador Windows, macOS ou Linux usando binários pré-compilados da [página de downloads](https://keepassxc.org/download). Além disso, distribuições Linux individuais podem fornecer suas próprias versões, portanto, verifique a lista de pacotes da sua distribuição para ver se o KeePassXC está disponível. A documentação detalhada está disponível no [Guia do Usuário](https://keepassxc.org/docs/KeePassXC_UserGuide.html).
-*** Traduzido com www.DeepL.com/Translator (versão gratuita) ***
+
 
 
 
@@ -48,7 +48,7 @@ O KeePassXC possui vários recursos para usuários iniciantes e avançados. Noss
 * Integração com SSH Agent
 * FreeDesktop.org Secret Service (substitui o Gnome keyring, etc.)
 * Opções adicionais de criptografia: Twofish e ChaCha20
-*** Traduzido com www.DeepL.com/Translator (versão gratuita) ***
+
 
 For a full list of changes, read the [CHANGELOG](CHANGELOG.md) document. \
 For a full list of keyboard shortcuts, see [KeyboardShortcuts.adoc](./docs/topics/KeyboardShortcuts.adoc)
@@ -65,8 +65,10 @@ Os colaboradores devem aderir ao [Código de Conduta](CODE-OF-CONDUCT.md) do pro
 
 ## Generative AI
 
-Generative AI is fast becoming a first-party feature in most development environments, including GitHub itself. If the majority of a code submission is made using Generative AI (e.g., agent-based or vibe coding) then **we will document that in the pull request.** All code submissions go through a rigorous review process regardless of the development workflow or submitter.
+A IA generativa está se tornando rapidamente um recurso próprio na maioria dos ambientes de desenvolvimento, incluindo o próprio GitHub. Se a maior parte de um envio de código for feita usando IA generativa (por exemplo, codificação baseada em agente ou vibe), **documentaremos isso na solicitação de pull.** Todos os envios de código passam por um rigoroso processo de revisão, independentemente do fluxo de trabalho de desenvolvimento ou do remetente.
 
-## License
 
-KeePassXC code is licensed under GPL-2 or GPL-3. Additional licensing for third-party files is detailed in [COPYING](./COPYING).
+
+
+## Licença
+O código do KeePassXC está licenciado sob a GPL-2 ou GPL-3. O licenciamento adicional para arquivos de terceiros está detalhado em [COPYING](./COPYING).
